@@ -5,7 +5,7 @@ started: 18 Jun 2023
 
 ---
 
-### Solved: 6
+### Solved: 3
 
 ## Languages used:
 
