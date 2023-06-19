@@ -5,7 +5,7 @@ started: 18 Jun 2023
 
 ---
 
-### Solved: 3
+### Solved: 7
 
 ## Languages used:
 
@@ -13,8 +13,18 @@ started: 18 Jun 2023
 
 ## Problems worked on:
 
-- [x] 1
-- [x] 2
-- [x] 3
-- [x] 4
-- [x] 5
+- [x] DNA
+    - [x] C
+- [x] RNA
+    - [x] C
+- [x] REVC
+    - [x] C
+- [x] HAMM
+    - [x] C
+- [x] PERM
+    - [x] C
+    <!-- - [ ] Rust -->
+- [x] FIBO
+    - [x] C
+- [x] SIGN
+    - [x] C
