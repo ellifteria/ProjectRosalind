@@ -5,6 +5,7 @@
 .vscode
 
 */rust/
+*/zig/
 
 # Prerequisites
 *.d
