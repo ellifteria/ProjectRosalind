@@ -1,6 +1,13 @@
 defmodule DNA do
   def count_nucleotide(string, nucleotide) do
-    Enum.reduce(String.graphemes(string), 0, fn(c, acc) -> if (c == nucleotide) do acc + 1 else acc end end)
+    String.graphemes(string) |>
+    Enum.reduce(0,
+    fn(c, acc) -> if (c == nucleotide) do
+      acc + 1
+    else
+      acc
+    end
+    end)
   end
 
   def count_all_nucleotides(string) do

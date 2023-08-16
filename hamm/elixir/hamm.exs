@@ -4,7 +4,13 @@ defmodule HAMM do
       raise "Invalid DNA string lengths"
     end
 
-    Enum.reduce(Enum.zip(String.graphemes(string1), String.graphemes(string2)), 0, fn(x, acc) -> if elem(x, 0) != elem(x, 1) do acc + 1 else acc end end)
+    Enum.zip(String.graphemes(string1), String.graphemes(string2)) |>
+    Enum.reduce(0,
+    fn(x, acc) -> if elem(x, 0) != elem(x, 1) do
+      acc + 1
+    else acc
+    end
+    end)
   end
 end
 
