@@ -19,5 +19,5 @@ IO.puts(dna_string)
 
 nucleotide_counts = DNA.count_all_nucleotides(dna_string)
 
-IO.puts("\nResults:\nA C G T:")
+IO.puts("\nResult:\nA C G T:")
 IO.puts(Enum.reduce(nucleotide_counts, fn(x, acc) -> to_string(acc) <> " " <> to_string(x) end))

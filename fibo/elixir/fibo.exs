@@ -19,5 +19,5 @@ end
 IO.puts("Analyzing:")
 IO.puts(n)
 
-IO.puts("\nResults:")
+IO.puts("\nResult:")
 IO.puts(FIBO.fibo(n))
