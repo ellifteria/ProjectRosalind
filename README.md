@@ -24,6 +24,7 @@ started: 18 Jun 2023
     - [x] Elixir
 - [x] REVC
     - [x] C
+    - [x] Elixir
 - [x] HAMM
     - [x] C
     - [x] Elixir
