@@ -4,9 +4,6 @@
 # Visual Studio Code
 .vscode
 
-*/rust/
-*/zig/
-
 # Prerequisites
 *.d
 
