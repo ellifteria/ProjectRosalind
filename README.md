@@ -5,7 +5,7 @@ started: 18 Jun 2023
 
 ---
 
-## Problems solved: 7
+## Problems solved: 9
 
 - [x] DNA
   - [x] C
