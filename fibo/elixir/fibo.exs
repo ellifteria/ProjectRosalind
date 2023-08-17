@@ -14,8 +14,6 @@ end
 
 {n, _} = IO.gets("") |> Integer.parse
 
-
-
 IO.puts("Analyzing:")
 IO.puts(n)
 

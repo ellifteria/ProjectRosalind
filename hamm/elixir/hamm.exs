@@ -25,6 +25,5 @@ IO.puts("Analyzing:")
 IO.puts(dna_string1)
 IO.puts(dna_string2)
 
-
 IO.puts("\nResult:")
 IO.puts(HAMM.calculate_hamming_distance(dna_string1, dna_string2))
