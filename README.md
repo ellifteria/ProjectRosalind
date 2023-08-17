@@ -28,6 +28,10 @@ started: 18 Jun 2023
   - [x] Nim
 - [x] SIGN
   - [x] C
+- [x] PROT
+  - [x] Elixir
+- [x] PRTM
+  - [x] Elixir
 
 ## Languages used
 
