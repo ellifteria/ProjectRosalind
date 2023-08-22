@@ -35,7 +35,9 @@ started: 18 Jun 2023
 - [x] SUBS
   - [x] Elixir
 - [x] FIB
-  -[x] Elixir
+  - [x] Elixir
+- [x] FIBD
+  - [x] Elixir
 
 ## Languages used
 
