@@ -10,7 +10,6 @@ started: 18 Jun 2023
 - [x] DNA
   - [x] C
   - [x] Elixir
-  - [x] Nim
 - [x] RNA
   - [x] C
   - [x] Elixir
