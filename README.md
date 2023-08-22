@@ -32,6 +32,8 @@ started: 18 Jun 2023
   - [x] Elixir
 - [x] PRTM
   - [x] Elixir
+- [x] SUBS
+  - [x] Elixir
 
 ## Languages used
 
