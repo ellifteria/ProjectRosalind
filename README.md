@@ -5,7 +5,7 @@ started: 18 Jun 2023
 
 ---
 
-## Problems solved: 13
+## Problems solved: 14
 
 - [x] DNA
   - [x] C
@@ -39,6 +39,8 @@ started: 18 Jun 2023
 - [x] FIBD
   - [x] Elixir
 - [x] IPRB
+  - [x] Elixir
+- [x] IEV
   - [x] Elixir
 
 ## Languages used
