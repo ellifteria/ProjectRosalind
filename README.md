@@ -21,12 +21,14 @@ started: 18 Jun 2023
   - [x] Elixir
 - [x] PERM
   - [x] C
+  - [x] Elixir
 - [x] FIBO
   - [x] C
   - [x] Elixir
   - [x] Nim
 - [x] SIGN
   - [x] C
+  - [x] Elixir
 - [x] PROT
   - [x] Elixir
 - [x] PRTM
