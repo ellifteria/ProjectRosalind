@@ -5,7 +5,7 @@ started: 18 Jun 2023
 
 ---
 
-## Problems solved: 15
+## Problems solved: 16
 
 - [x] DNA
   - [x] C
@@ -44,6 +44,8 @@ started: 18 Jun 2023
 - [x] IEV
   - [x] Elixir
 - [x] LEXF
+  - [x] Elixir
+- [x] GC
   - [x] Elixir
 
 ## Languages used
